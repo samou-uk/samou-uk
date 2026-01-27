@@ -3,7 +3,7 @@
 ## About
 I’m a Mathematics student at the University of Waterloo (FARM + Joint Statistics, Minor in Computational Mathematics) focused on shipping real systems that move revenue, eliminate time waste, and scale decision-making.
 
-I currently work at **Fortune Foods**, where I’m systematically transforming a traditional wholesale food business into a technology-driven operation — one internal tool, pipeline, and automation at a time.
+I currently work at **Fortune Foods**, the family business, where I deliberately focus my time when co-op isn’t the priority, transforming a traditional wholesale food business into a technology-driven operation — one internal tool, pipeline, and automation at a time.
 
 ## What I Do
 - Design and ship end-to-end data systems
