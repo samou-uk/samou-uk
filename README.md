@@ -1,9 +1,16 @@
 # Sam Chusen Ou
 
 ## About
-I’m a Mathematics student at the University of Waterloo (FARM + Joint Statistics, Minor in Computational Mathematics) focused on shipping real systems that move revenue, eliminate time waste, and scale decision-making.
+- Mathematics/Financial Analysis & Risk Management student at the **University of Waterloo**
+  - Joint Statistics
+  - Minor in Computational Mathematics
 
-I currently work at **Fortune Foods**, the family business, where I deliberately focus my time when co-op isn’t the priority, transforming a traditional wholesale food business into a technology-driven operation — one internal tool, pipeline, and automation at a time.
+Focused on shipping real systems that move revenue, eliminate time waste & scale decision-making.
+
+- Currently working at **Fortune Foods** (family business)
+  - Deliberately focus my time here when co-op isn’t the priority
+  - Transforming a traditional wholesale food business into a technology-driven operation
+  - Building internal tools, data pipelines, and automation in a live production environment
 
 ## What I Do
 - Design and ship end-to-end data systems
@@ -11,9 +18,15 @@ I currently work at **Fortune Foods**, the family business, where I deliberately
 - Build internal tools that actually get used
 - Translate business intuition into executable logic
 
+## Previously
+- **Linamar** — IT Application Support  
+  Supported accounting and finance workflows within IFS; automated ITGC-related data processing.
+- **Hans Holdings Management** — Application Developer  
+  Designed and shipped an internal reservation system.
+
 ## Selected Work
 **Decision Support & BI Platform (Production)**  
-Built and deployed a full BI and decision-support system for a UK food wholesaler:
+- Built and deployed a full BI and decision-support system for a UK food wholesaler
 - Automated data ingestion and validation pipelines
 - Customer, sales, and regional performance analytics
 - Demand forecasting and executive dashboards
@@ -29,18 +42,19 @@ Built and deployed a full BI and decision-support system for a UK food wholesale
 - Early-stage product viability signals using trend data
 
 ## Stack
-**Languages**  
-Python, SQL, JavaScript, R
+**Languages**
+- Python, SQL, JavaScript, R
 
-**Frameworks / Tools**  
-Flask, React, Pandas, NumPy, Prophet
+**Frameworks / Tools**
+- Flask, React, Pandas, NumPy, Prophet
 
-**Data & Infra**  
-PostgreSQL, Excel, REST APIs, IFS ERP, Sage ERP
+**Data & Infra**
+- PostgreSQL, Excel, REST APIs
+- IFS ERP, Sage ERP
 
 ## Beyond Code
-Born in London, now based in Waterloo, Canada.
-
-Outside of work and coursework, I spend time on tennis, golf, and sabre fencing (tennis wins on logistics). I follow Formula One a little too closely, which inevitably led to sim racing and questionable financial decisions.
-
-I also cook — mostly Chinese techniques — though I’m regularly told my Chicken & Mash holds its own. I grew up playing piano, clarinet, and saxophone; these days I mostly listen and analyze instead.
+- Born in London; now based in Waterloo, Canada
+- Sports: tennis, golf, sabre fencing (tennis wins on logistics)
+- Formula One → sim racing → poor financial decisions
+- Cooking: mostly Chinese techniques; Chicken & Mash holds its own
+- Music background: piano, clarinet, saxophone; now more listener than player
