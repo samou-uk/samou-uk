@@ -5,9 +5,8 @@ I am a Mathematics/Financial Analysis & Risk Management, Joint Statistics and Co
 
 Focused on shipping real systems that move revenue, eliminate time waste & scale decision-making.
 
-Currently working at **Fortune Foods** (family business)
-  - Deliberately focus my time here when co-op isn’t the priority
-  - Transforming a traditional wholesale food business into a technology-driven operation
+Currently working at **Fortune Foods**
+  - Transforming a traditional wholesale food business into a technology company one line at a time
   - Building internal tools, data pipelines, and automation in a live production environment
 
 ## What I Do
@@ -23,7 +22,7 @@ Currently working at **Fortune Foods** (family business)
   Designed and shipped a customer-facing GDPR-compliant reservation system.
 
 ## A little bit about me..
-- Born in London; now based in Waterloo, Canada
+- Born in London, UK; now based in Waterloo, Canada
 - Sports: tennis, golf, sabre fencing (tennis wins on logistics)
 - Formula One → sim racing → poor financial decisions
 - Cooking: mostly Chinese techniques, but I've been told Chicken & Mash slaps
