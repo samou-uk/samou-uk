@@ -18,7 +18,7 @@ Focused on shipping real systems that move revenue, eliminate time waste & scale
 - Build internal tools that actually get used
 - Translate business intuition into executable logic
 
-## Previously
+## Previously..
 - **Linamar** — IT Application Support  
   Supported accounting and finance workflows within IFS; automated ITGC-related data processing.
 - **Hans Holdings Management** — Application Developer  
@@ -52,9 +52,9 @@ Focused on shipping real systems that move revenue, eliminate time waste & scale
 - PostgreSQL, Excel, REST APIs
 - IFS ERP, Sage ERP
 
-## Beyond Code
+## A little bit about me..
 - Born in London; now based in Waterloo, Canada
 - Sports: tennis, golf, sabre fencing (tennis wins on logistics)
 - Formula One → sim racing → poor financial decisions
-- Cooking: mostly Chinese techniques; Chicken & Mash holds its own
+- Cooking: mostly Chinese techniques, but I've been told Chicken & Mash slaps
 - Music background: piano, clarinet, saxophone; now more listener than player
