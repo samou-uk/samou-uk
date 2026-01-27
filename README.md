@@ -1,13 +1,11 @@
 # Sam Chusen Ou
 
 ## About
-- Mathematics/Financial Analysis & Risk Management student at the **University of Waterloo**
-  - Joint Statistics
-  - Minor in Computational Mathematics
+I am a Mathematics/Financial Analysis & Risk Management, Joint Statistics and Computational Mathematics student at the **University of Waterloo**
 
 Focused on shipping real systems that move revenue, eliminate time waste & scale decision-making.
 
-- Currently working at **Fortune Foods** (family business)
+Currently working at **Fortune Foods** (family business)
   - Deliberately focus my time here when co-op isn’t the priority
   - Transforming a traditional wholesale food business into a technology-driven operation
   - Building internal tools, data pipelines, and automation in a live production environment
@@ -22,35 +20,7 @@ Focused on shipping real systems that move revenue, eliminate time waste & scale
 - **Linamar** — IT Application Support  
   Supported accounting and finance workflows within IFS; automated ITGC-related data processing.
 - **Hans Holdings Management** — Application Developer  
-  Designed and shipped an internal reservation system.
-
-## Selected Work
-**Decision Support & BI Platform (Production)**  
-- Built and deployed a full BI and decision-support system for a UK food wholesaler
-- Automated data ingestion and validation pipelines
-- Customer, sales, and regional performance analytics
-- Demand forecasting and executive dashboards
-
-**Wholesale Tech Stack Modernization**
-- Internal platforms for sales and operations
-- Custom e-commerce and trade workflows
-- Data-driven cataloguing, labeling, and compliance tooling
-
-**Label Translation & Automation (WIP)**
-- OCR-assisted label translation workflows
-- Custom dictionaries and compliance blacklists
-- Early-stage product viability signals using trend data
-
-## Stack
-**Languages**
-- Python, SQL, JavaScript, R
-
-**Frameworks / Tools**
-- Flask, React, Pandas, NumPy, Prophet
-
-**Data & Infra**
-- PostgreSQL, Excel, REST APIs
-- IFS ERP, Sage ERP
+  Designed and shipped a customer-facing GDPR-compliant reservation system.
 
 ## A little bit about me..
 - Born in London; now based in Waterloo, Canada
