@@ -5,7 +5,7 @@ I am a Mathematics/Financial Analysis & Risk Management, Joint Statistics and Co
 
 Focused on shipping real systems that move revenue, eliminate time waste & scale decision-making.
 
-Currently working as a Business Technology Consultant at **Fortune Foods**
+Currently working as a **Business Technology Consultant at Fortune Foods**
   - Transforming a traditional wholesale food business into a technology company one line at a time
   - Building internal tools, data pipelines, and automation in a live production environment
 
