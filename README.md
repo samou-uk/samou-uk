@@ -9,12 +9,6 @@ Currently working part-time as a **Business Technology Consultant at Fortune Foo
   - Transforming a traditional wholesale food business into a technology company one line at a time
   - Building internal tools, data pipelines, and automation in a live production environment
 
-## What I Do
-- Design and ship end-to-end data systems
-- Replace manual workflows with software
-- Build internal tools that actually get used
-- Translate business intuition into executable logic
-
 ## Previously..
 - **Linamar** — IT Application Support  
   Supported accounting and finance workflows within IFS; automated ITGC-related data processing.
