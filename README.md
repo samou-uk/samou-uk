@@ -17,6 +17,6 @@ Focused on shipping real systems that move revenue, eliminate time waste & scale
 ## A little bit about me..
 - Born in London, UK; now based in Waterloo, Canada
 - Sports: tennis, golf, sabre fencing (tennis wins on logistics)
-- Formula One → sim racing → poor financial decisions
+- Formula One → sim racing
 - Cooking: mostly Chinese techniques, but I've been told Chicken & Mash slaps
 - Music background: piano, clarinet, saxophone; now more listener than player
