@@ -5,11 +5,10 @@ I am a Mathematics/Financial Analysis & Risk Management, Joint Statistics and Co
 
 Focused on shipping real systems that move revenue, eliminate time waste & scale decision-making.
 
-Currently working part-time as a **Business Technology Consultant at Fortune Foods**
-  - Transforming a traditional wholesale food business into a technology company one line at a time
-  - Building internal tools, data pipelines, and automation in a live production environment
-
 ## Previously..
+- **Business Technology Consultant at Fortune Foods**
+  - Led Digital Transformation.
+  - Built internal tools, data pipelines, and automation in a live production environment.
 - **Linamar** — IT Application Support  
   Supported accounting and finance workflows within IFS; automated ITGC-related data processing.
 - **Hans Holdings Management** — Application Developer  
